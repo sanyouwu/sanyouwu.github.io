@@ -83,7 +83,7 @@ author:
   name             : "Sanyou Wu (伍三友)"
   avatar           : "profile.png"
   bio              : "Change cost time"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LBW_vQEAAAAJ&hl=zh-CN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SanyouWu"
+  github           : "/SanyouWu"
   google_plus      :
   keybase          :
   instagram        :
