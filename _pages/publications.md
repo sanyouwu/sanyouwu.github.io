@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**\*** First author.     **#** Contributes equally
+**\*** First author     **#** Contributes equally
 
 ## Preprint
 
