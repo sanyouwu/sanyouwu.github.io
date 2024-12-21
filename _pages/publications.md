@@ -25,11 +25,11 @@ analysis, under review. [[Arxiv]](https://arxiv.org/abs/2407.14003)
 ## Publications
 
 3. ***Wu, S.**, Wang, F., & Feng, L. (2024). Individualized image region detection with total variation. In
-Statistical analysis and data mining: The asa data science journal (Vol. 17, e11684). [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11684)
+Statistical analysis and data mining: The asa data science journal (Vol. 17, e11684). [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11684) [[Code]](https://github.com/sanyouwu/Individual-Region-Dection)
 
 2. ***Wu, S.**, & Feng, L. (2023). Sparse kronecker product decomposition: A general framework of signal
 region detection in image regression. In Journal of the royal statistical society series b: Statistical
-methodology (Vol. 85, pp. 783–809). [[Paper]](https://arxiv.org/abs/2210.09128)
+methodology (Vol. 85, pp. 783–809). [[Paper]](https://arxiv.org/abs/2210.09128)  [[Code]](https://github.com/sanyouwu/SKPD)
 
 1. ***Wu, S.**, Feng, X., & Zhou, F. (2020). Metric learning by similarity network for deep semi-supervised
 learning. In Developments of artificial intelligence technologies in computation and robotics: Proceedings of
