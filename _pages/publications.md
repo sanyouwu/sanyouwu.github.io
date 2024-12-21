@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -16,6 +16,20 @@ author_profile: true
 {% endfor %}
 
 
-## Journal article
+## Preprint
 
-## Conference paper
+1. Li, Z., **Wu, S.**, & Feng, L. (2024). Time series generative learning with application to brain imaging
+analysis, under review.
+
+## Publications
+
+3. **Wu, S.**, Wang, F., & Feng, L. (2024). Individualized image region detection with total variation. In
+Statistical analysis and data mining: The asa data science journal (Vol. 17, e11684).
+
+2. **Wu, S.**, & Feng, L. (2023). Sparse kronecker product decomposition: A general framework of signal
+region detection in image regression. In Journal of the royal statistical society series b: Statistical
+methodology (Vol. 85, pp. 783–809).
+
+1. **Wu, S.**, Feng, X., & Zhou, F. (2020). Metric learning by similarity network for deep semi-supervised
+learning. In Developments of artificial intelligence technologies in computation and robotics: Proceedings of
+the 14th international flins conference (flins 2020) (pp. 995–1002).
