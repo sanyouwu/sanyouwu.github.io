@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprint
 
-1. **#Wu, S.**, Yang, D., Xu, Y., & Feng, L. (2025). Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data, under review. [[Arxiv]](https://arxiv.org/abs/2503.08579)
+1. **Wu, S.**, Yang, D., Xu, Y., & Feng, L. (2025). Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data, under review. [[Arxiv]](https://arxiv.org/abs/2503.08579)
    
 2. Li, Z., **#Wu, S.**, & Feng, L. (2024). Time series generative learning with application to brain imaging
 analysis, under review. [[Arxiv]](https://arxiv.org/abs/2407.14003)
