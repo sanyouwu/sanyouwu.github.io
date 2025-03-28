@@ -24,6 +24,8 @@ author_profile: true
 2. Li, Z., **#Wu, S.**, & Feng, L. (2024). Time series generative learning with application to brain imaging
 analysis, under review. [[Arxiv]](https://arxiv.org/abs/2407.14003)
 
+3. Tian, Y., **Wu, S.**, & Feng, L. (2025). Nonlinear Multiple Response Regression and Learning of Latent Spaces, under review. [[Arxiv]](https://arxiv.org/abs/2503.21608)
+
 ## Publications
 
 3. ***Wu, S.**, Wang, F., & Feng, L. (2024). Individualized image region detection with total variation. In
