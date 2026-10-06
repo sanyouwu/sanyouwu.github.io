@@ -17,4 +17,9 @@ I received my B.S. in Statistics from Tongji University in 2018, and Master in S
 
 Research Interests
 ======
-My research interests include image data analysis, statistical machine learning and deep learning. 
+
+- **Generative Statistical Learning:** latent-variable modeling, distributional prediction, and representation learning
+
+- **Foundation Models for Statistical Inference:** amortized inference, variable selection, and uncertainty quantification
+
+- **Biomedical Data:** longitudinal/EHR data and medical imaging
