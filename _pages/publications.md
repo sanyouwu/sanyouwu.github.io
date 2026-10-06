@@ -21,7 +21,7 @@ author_profile: true
 
 1. ***Wu, S.**, Wei, Y., & Wang, K. (2026). Latent-driven Imputation and Forecasting for partially observed Time Series (LIFTS). [[Arxiv]](https://arxiv.org/abs/2610.03916)
 
-2. Li, Y., **Wu, S.**, Yang, Z., Xu, Q., Liu, Y., Lin, Z., Zhang, M. M., Djurić, P., & Thiery, A. H. (2026). Continuous-depth Deep Gaussian Processes. [[Paper]](https://openreview.net/forum?id=lD5IXHqE11)
+2. Li, Y., **Wu, S.**, Yang, Z., Xu, Q., Liu, Y., Lin, Z., Zhang, M. M., Djurić, P., & Thiery, A. H. (2026). Continuous-depth Deep Gaussian Processes, accepted by NeurIPS 2026.
 
 3. ***Wu, S.**, Yang, D., Xu, Y., & Feng, L. (2025). Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data, under review. [[Arxiv]](https://arxiv.org/abs/2503.08579)
    
