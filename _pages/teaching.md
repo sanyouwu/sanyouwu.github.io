@@ -11,7 +11,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Teaching Assitants
+## Teaching Experiences
+
+### Lecturer
+
+### Teaching Assistant
 
 - [2023-2024] Probability and statistics
 
@@ -22,5 +26,4 @@ author_profile: true
 - [2021 Fall] Statistical machine learning
 
 - [2020 Fall] Advanced Statistics
-
 
