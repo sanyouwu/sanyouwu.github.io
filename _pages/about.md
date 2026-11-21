@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Biostatistics at Columbia University, supervised by Professor [Ying Wei](https://yingweistat.com/) and Professor [Kaizheng Wang](https://kw2934.github.io/).
+I am a postdoctoral researcher in the Department of Biostatistics at Columbia University, working with Professor [Ying Wei](https://yingweistat.com/) and Professor [Kaizheng Wang](https://kw2934.github.io/).
 
 I received my Ph.D. from The University of Hong Kong, where I was supervised by Dr. [Long Feng](https://lfengstat.github.io/).
 
